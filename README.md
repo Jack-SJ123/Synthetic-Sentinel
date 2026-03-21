@@ -52,7 +52,13 @@ streamlit run app.py
 
 ---
 
-## Project Structure
+## Reproducing Weights
+The model weights (`models/best_roberta.pt`) are excluded from this repository due to their size (>100MB). To reproduce the results:
+1.  Run the data pipeline: `python data_loader.py`
+2.  Train the model: `python train_model.py`
+3.  Evaluate the model: `python evaluate.py`
+
+Once trained, you can launch the dashboard using `streamlit run app.py`.
 
 ```
 Final_Project/
