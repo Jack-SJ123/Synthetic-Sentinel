@@ -1,0 +1,33 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Models and Data (too large or local)
+models/*.pt
+models/*.pkl
+models/tokenizer/
+data/*.csv
+data/*.zip
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environment
+env/
+venv/
+.env
+
+# MacOS
+.DS_Store
+
+# Results (optional, keep if small metrics)
+# results/*.png
+# results/*.csv
+results/misclassified_samples.csv
+
+# Reports
+Final_Report.docx
+presentation.pptx
+docs/*.docx

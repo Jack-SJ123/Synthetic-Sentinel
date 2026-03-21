@@ -1,0 +1,11 @@
+{
+  "baseline": {
+    "model": "LogisticRegression",
+    "accuracy": 1.0,
+    "f1": 1.0
+  },
+  "hybrid": {
+    "model": "HybridDetector",
+    "best_f1": 0.9624796084828712
+  }
+}
