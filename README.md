@@ -2,18 +2,7 @@
 
 **A Multi-Model Approach to AI-Generated Misinformation Detection**
 
-*ARTI407 – NLP Final Project | Group 9*
-
----
-
-## Team
-
-| Name | Role |
-|---|---|
-| Angel Daniel Bustamante Perez | Data Architect |
-| Romilson Lemes Cordeiro | ML Engineer |
-| Sakthivel Rithiek | Linguistic Analyst |
-| Jack Si | UX & Business Lead |
+*ARTI407 – NLP Final Project*
 
 ---
 
@@ -94,9 +83,3 @@ Final_Project/
 | Hybrid RoBERTa | — | — | — |
 
 *Metrics populated after running `evaluate.py`*
-
----
-
-## License
-
-Academic project — SAIT ARTI407, Winter 2026.
