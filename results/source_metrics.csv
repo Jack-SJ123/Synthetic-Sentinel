@@ -1,0 +1,4 @@
+source,samples,accuracy,precision,recall,f1,roc_auc
+custom_synthetic,148,1.0,1.0,1.0,1.0,1.0
+fakenews_synthetic,464,0.8922413793103449,0.8316498316498316,1.0,0.9080882352941176,0.9999067146775126
+tweepfake_synthetic,686,1.0,1.0,1.0,1.0,1.0

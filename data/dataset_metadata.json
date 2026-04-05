@@ -1,0 +1,19 @@
+{
+  "total_samples": 8651,
+  "source_counts": {
+    "tweepfake_synthetic": 4651,
+    "fakenews_synthetic": 3000,
+    "custom_synthetic": 1000
+  },
+  "label_counts": {
+    "1": 5299,
+    "0": 3352
+  },
+  "synthetic_sources": [
+    "tweepfake_synthetic",
+    "fakenews_synthetic",
+    "custom_synthetic"
+  ],
+  "real_sources": [],
+  "synthetic_fraction": 1.0
+}
